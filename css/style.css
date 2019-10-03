@@ -485,6 +485,17 @@
 				width: 100%;
 			}
 
+			.image.half {
+				display: inline-block;
+				margin: 0 0 2em 0;
+				width: 45%;
+			}
+
+				.image.half img {
+					display: inline-block;
+					width: 100%;
+				}
+
 /* List */
 
 	ol {
