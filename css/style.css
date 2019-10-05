@@ -959,6 +959,14 @@
 						text-decoration: none;
 					}
 
+					#header nav > ul > li a.tbd {
+						text-decoration: line-through;
+					}
+
+					#header nav > ul > li a.current {
+						text-decoration: underline overline dotted;
+						font-weight: 500;
+					}
 						#header nav > ul > li a:hover {
 							color: #629DD1;
 						}
