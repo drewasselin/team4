@@ -105,6 +105,15 @@
 						text-decoration: none;
 					}
 
+					#navPanel nav > ul > li a.tbd {
+						text-decoration: line-through;
+					}
+
+					#navPanel nav > ul > li a.current {
+						font-size: 1.15em;
+						font-weight: 500;
+					}
+
 					#navPanel nav ul li a.button {
 						margin-top: 1em;
 					}

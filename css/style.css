@@ -964,7 +964,7 @@
 					}
 
 					#header nav > ul > li a.current {
-						text-decoration: underline overline dotted;
+						font-size: 1.15em;
 						font-weight: 500;
 					}
 						#header nav > ul > li a:hover {
